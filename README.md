@@ -1,2 +1,4 @@
 # Learning about Version Control
-Author: Raghav Haralalka
+## Author: Raghav Haralalka
+
+Solving merge conflicts is easy!
